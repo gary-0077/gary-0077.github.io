@@ -1,2 +1,2 @@
-# gary-0077.github.io
+# AI, ML &Agentic AI.github.io
 Artificial Intelligence, Machine Learning and Agentic AI
